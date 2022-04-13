@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ecommerce-store-using-redux/static/css/main.6009d04c.css",
-    "main.js": "/ecommerce-store-using-redux/static/js/main.5dcd856b.js",
-    "index.html": "/ecommerce-store-using-redux/index.html",
-    "main.6009d04c.css.map": "/ecommerce-store-using-redux/static/css/main.6009d04c.css.map",
-    "main.5dcd856b.js.map": "/ecommerce-store-using-redux/static/js/main.5dcd856b.js.map"
+    "main.css": "/ecommerce-product-store-react-redux/static/css/main.6009d04c.css",
+    "main.js": "/ecommerce-product-store-react-redux/static/js/main.5d617744.js",
+    "index.html": "/ecommerce-product-store-react-redux/index.html",
+    "main.6009d04c.css.map": "/ecommerce-product-store-react-redux/static/css/main.6009d04c.css.map",
+    "main.5d617744.js.map": "/ecommerce-product-store-react-redux/static/js/main.5d617744.js.map"
   },
   "entrypoints": [
     "static/css/main.6009d04c.css",
-    "static/js/main.5dcd856b.js"
+    "static/js/main.5d617744.js"
   ]
 }
